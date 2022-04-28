@@ -74,6 +74,6 @@ public class ProdutoBean implements java.io.Serializable, Comparable<ProdutoBean
 		    return 0;
 	}
 	
-	
+	//codigo corrigido!
 
 }
